@@ -1,0 +1,1 @@
+O objetivo deste editor é facilitar a edição de conteúdo html dentro do strings.xml de aplicativos para android
